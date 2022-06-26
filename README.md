@@ -1,5 +1,5 @@
 # BootcampBitirmeProjesi 
-Bu repo aşağıda verilen test senaryosu yazma(excel) ve test otomasyonundan(Web-Mobil) oluşmaktadır. <br />
+Bu repo aşağıda verilen test senaryosu yazma(excel) ve test otomasyonundan(Web-Mobil) oluşmaktadır. Ayrıca extra senaryolar eklenmiştir. <br />
 Not : Bu repo içerisindeki otomasyonlar "parallel.xml" üzerinden çalıştırılmalıdır. <br />
 Web için lütfen videoyu izleyiniz ->  https://www.youtube.com/watch?v=XMPNFpH1ItI                                                      <br />
 Mobil için lütfen videoyu izleyiniz -> https://www.youtube.com/watch?v=k3Iz_zmepTU                                                      <br />
